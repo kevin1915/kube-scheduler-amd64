@@ -1,3 +1,3 @@
-FROM  k8s.gcr.io/kube-scheduler-amd64:v1.11.3
+FROM  k8s.gcr.io/kube-scheduler-amd64:v1.11.4
 
 MAINTAINER Kevin Kevin@ly-sky.com
